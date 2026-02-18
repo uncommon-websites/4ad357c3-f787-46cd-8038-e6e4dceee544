@@ -17,7 +17,7 @@
   <!-- Hero Section -->
   <section class="pt-16 md:pt-24 pb-12">
     <div class="max-w-4xl mx-auto px-4 text-center mb-16">
-      <h1 class="text-[42px] md:text-[64px] leading-[1.1] font-normal text-[#1a1a1a] tracking-tight mb-6 pt-8">
+      <h1 class="text-[42px] md:text-[64px] leading-[1.1] font-normal text-[#1a1a1a] tracking-tight mb-6 pt-16 md:pt-20">
         Institutional intelligence.<br />
         Native to private markets.
       </h1>
