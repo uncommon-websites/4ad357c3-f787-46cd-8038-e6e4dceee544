@@ -14,11 +14,11 @@
 	--color-gray-900: #111827;
 	--color-gray-950: #030712;
 
-	--color-sierra-green: #105D37;
-	--color-sierra-green-hover: #0C492B;
-	--color-sierra-beige: #EBEBE6;
-	--color-sierra-dark: #1A1A1A;
-	--color-sierra-light: #F7F7F7;
+	--color-horison-blue: oklch(0.685 0.169 237.323);
+	--color-horison-blue-hover: oklch(0.588 0.158 241.966);
+	--color-horison-gray: oklch(0.554 0.046 257.417);
+	--color-horison-dark: oklch(0.129 0.042 264.695);
+	--color-horison-light: oklch(0.984 0.003 247.858);
 
 	--font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
 	--font-serif: "Instrument Serif", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
